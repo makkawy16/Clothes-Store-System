@@ -1,0 +1,60 @@
+D:\visual studio\clothes store\clothes store\bin\Debug\clothes store.exe.config
+D:\visual studio\clothes store\clothes store\bin\Debug\clothes store.exe
+D:\visual studio\clothes store\clothes store\bin\Debug\clothes store.pdb
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.csproj.AssemblyReference.cache
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Login.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Properties.Resources.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.csproj.GenerateResource.cache
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.csproj.CoreCompileInputs.cache
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.exe
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.pdb
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Prouducts.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Inventory.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Show_Data.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Sale.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Create_User.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Change_Password.resources
+D:\visual studio\clothes store\clothes store\bin\Debug\clothes store.exe.manifest
+D:\visual studio\clothes store\clothes store\bin\Debug\clothes store.application
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.exe.manifest
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.application
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Receipt.resources
+D:\visual studio\clothes store\clothes store\bin\Debug\store.mdf
+D:\visual studio\clothes store\clothes store\bin\Debug\store_log.ldf
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.welcome_Admin.resources
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes_store.Welcome_to_Store.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\store.mdf
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\store_log.ldf
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\clothes store.exe.config
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\clothes store.exe.manifest
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\clothes store.application
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\clothes store.exe
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\clothes store.pdb
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\clothes store\clothes store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Change_Password.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Create_User.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Inventory.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Login.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Properties.Resources.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Prouducts.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Receipt.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Sale.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Show_Data.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Welcome_to_Store.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes_store.Welcome_Admin.resources
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.exe.manifest
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.application
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.csproj.CopyComplete
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.exe
+C:\Users\DELL\Desktop\clothes store\clothes store\obj\Debug\clothes store.pdb
+D:\visual studio\clothes store\clothes store\bin\Debug\EntityFramework.dll
+D:\visual studio\clothes store\clothes store\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio\clothes store\clothes store\bin\Debug\EntityFramework.xml
+D:\visual studio\clothes store\clothes store\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio\clothes store\clothes store\obj\Debug\clothes store.csproj.CopyComplete
